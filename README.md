@@ -57,6 +57,9 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+## Test Swagger
+
+https//localhost:3333/api
 
 ## Support
 
