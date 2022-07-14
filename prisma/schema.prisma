@@ -45,6 +45,6 @@ model Transaction{
   userID String
   orderID String
 
-  payform String
+  payment String
   total Float
 }
